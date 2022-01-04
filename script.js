@@ -1,3 +1,4 @@
+//The new branch
 var points = 0
 function game(player) {
     var rand = Math.floor(Math.random() * 3);
